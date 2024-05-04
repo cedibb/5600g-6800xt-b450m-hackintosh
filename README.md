@@ -1,3 +1,3 @@
-v1 - uses Pebuilt SSDTs
+v1 - Prebuilt SSDTs
 
-v2 - uses specific SSDTs
+v2 - specific SSDTs
