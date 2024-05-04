@@ -1,3 +1,3 @@
 v1 - Prebuilt SSDTs
 
-v2 - specific SSDTs
+v2 - Specific SSDTs
